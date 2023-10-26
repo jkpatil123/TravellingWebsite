@@ -13,7 +13,7 @@ function Home() {
     <Hero 
        cName="hero"
        heroImage={HeroImage}
-            title="Your Journey Your Story"
+            title="You Journey Your Story"
        text="Choose Your favourite Destination"
        buttonText="Travel Plan"
        url="/"
